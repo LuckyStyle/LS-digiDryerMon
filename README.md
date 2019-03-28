@@ -1,7 +1,8 @@
 # LS-digiDryerMon
 ESP8266 based washer/dryer current monitoring via a split core current transformer over ESPHome.  
 
-This is based on digiblur's project: (Thank you for the Inspiration @digiblur)
+This is based on **digiblur's** project: (Thank you for the Inspiration @digiblur)
+
 https://github.com/digiblur/digiDryerMon
 
 Video Demostration and Setup - https://www.youtube.com/watch?v=1tqJkw5f0iA
