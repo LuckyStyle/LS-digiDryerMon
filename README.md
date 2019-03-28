@@ -8,15 +8,15 @@ https://github.com/digiblur/digiDryerMon
 Video Demostration and Setup - https://www.youtube.com/watch?v=1tqJkw5f0iA
 
 ### Parts List
-[Split Core Current Transformer](https://amzn.to/2XDcnoX)  
-[Wemos D1 Mini](https://amzn.to/2SHvFpk)  
-[10µF Capacitor](https://amzn.to/2VFhGC6)  
-[10k Resistors](https://amzn.to/2ErWhWi)  
-[Preformed Jumpers](https://amzn.to/2Ha3bCs)  
-[Breadboard](https://amzn.to/2HbdINP)  
+[Split Core Current Transformer](https://amzn.to/2WwNolD)  
+[Wemos D1 Mini](https://amzn.to/2Ww9rsM)  
+[10µF Capacitor](https://amzn.to/2uy0aUY)  
+[10k Resistors](https://amzn.to/2WuQ7vM)  
+[Preformed Jumpers](https://amzn.to/2U8UpMY)  
+[Breadboard](https://amzn.to/2WuRoD4)  
 
-[Alternative NodeMCU 8266](https://amzn.to/2Eo3Ahu)  
-[Alternative NodeMCU 8285](https://amzn.to/2TdNMIo)
+[Alternative NodeMCU 8266](https://amzn.to/2FIBQ9p)  
+[Alternative NodeMCU 8285](https://amzn.to/2uuZWhx)
 
 ### Sample Home Assistant Entities 
 ![alt text](https://raw.githubusercontent.com/LuckyStyle/LS-digiDryerMon/master/jpgs/entities.JPG "Entities")
