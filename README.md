@@ -18,7 +18,7 @@ Video Demostration and Setup - https://www.youtube.com/watch?v=1tqJkw5f0iA
 [Alternative NodeMCU 8285](https://amzn.to/2TdNMIo)
 
 ### Sample Home Assistant Entities 
-![alt text](https://raw.githubusercontent.com/LuckyStyle/LS-digiDryerMon/master/jpgs/entities.jpg "Entities")
+![alt text](https://raw.githubusercontent.com/LuckyStyle/LS-digiDryerMon/master/jpgs/entities.JPG "Entities")
 
 ### Sample Home Assistant Automation
 https://www.digiblur.com/2018/11/smart-laundry-notifications-with-sonoff.html
