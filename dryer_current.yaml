@@ -1,7 +1,7 @@
 esphome:
   name: dryer_current
   platform: ESP8266
-  board: d1_mini
+  board: esp01_1m
   includes:
     - currentsensor.h
   libraries:
